@@ -1,5 +1,5 @@
 {
-	"name": "salamwaddah/laravel-relation-parser",
+	"name": "hellomohsinhello/laravel-relation-parser",
 	"description": "Easily load model relations from frontend without changing your API",
 	"type": "library",
 	"license": "MIT",

@@ -38,7 +38,7 @@ Add a `with_count` param to your HTTP request
 ### In your controller
 
 ```php
-use Hellomohsinhello\RelationParser\LoadsRelations;
+use SalamWaddah\RelationParser\LoadsRelations;
 use Illuminate\Http\Request;
 
 class UsersController extends Controller

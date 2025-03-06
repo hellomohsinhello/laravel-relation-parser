@@ -1,6 +1,6 @@
 <?php
 
-namespace Hellomohsinhello\RelationParser\Tests;
+namespace SalamWaddah\RelationParser\Tests;
 
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Foundation\Application;

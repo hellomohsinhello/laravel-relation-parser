@@ -1,11 +1,11 @@
 <?php
 
-namespace Hellomohsinhello\RelationParser\Tests;
+namespace SalamWaddah\RelationParser\Tests;
 
 use Illuminate\Database\Eloquent\RelationNotFoundException;
 use Illuminate\Http\Request;
-use Hellomohsinhello\RelationParser\LoadsRelations;
-use Hellomohsinhello\RelationParser\Tests\Models\TestModel;
+use SalamWaddah\RelationParser\LoadsRelations;
+use SalamWaddah\RelationParser\Tests\Models\TestModel;
 
 class RelationLoaderTest extends TestCase
 {

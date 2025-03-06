@@ -1,10 +1,10 @@
 <?php
 
-namespace Hellomohsinhello\RelationParser\Tests\Models;
+namespace SalamWaddah\RelationParser\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
-use Hellomohsinhello\RelationParser\LoadsRelations;
+use SalamWaddah\RelationParser\LoadsRelations;
 
 class TestModel extends Model
 {

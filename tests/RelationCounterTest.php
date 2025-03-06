@@ -1,12 +1,12 @@
 <?php
 
-namespace Hellomohsinhello\RelationParser\Tests;
+namespace SalamWaddah\RelationParser\Tests;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;
-use Hellomohsinhello\RelationParser\LoadsRelations;
-use Hellomohsinhello\RelationParser\Tests\Models\RelatedModel;
-use Hellomohsinhello\RelationParser\Tests\Models\TestModel;
+use SalamWaddah\RelationParser\LoadsRelations;
+use SalamWaddah\RelationParser\Tests\Models\RelatedModel;
+use SalamWaddah\RelationParser\Tests\Models\TestModel;
 
 class RelationCounterTest extends TestCase
 {

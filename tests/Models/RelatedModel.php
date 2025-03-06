@@ -1,6 +1,6 @@
 <?php
 
-namespace Hellomohsinhello\RelationParser\Tests\Models;
+namespace SalamWaddah\RelationParser\Tests\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
