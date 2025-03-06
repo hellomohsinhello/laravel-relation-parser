@@ -1,6 +1,6 @@
 <?php
 
-namespace SalamWaddah\RelationParser;
+namespace Hellomohsinhello\RelationParser;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\Request;
